@@ -1,0 +1,24 @@
+.bg{
+    background-image: url('https://img.elo7.com.br/product/600x380/1743097/caneca-big-bang-theory-sublimacao.jpg');
+    background-repeat: no-repeat;
+    background-position: 5cm;
+    background-position-y:9cm;
+    
+}
+#alterarHumor{
+    padding-right: 25%;
+    border: none;
+    border-radius: 30px;
+    padding: .5rem 1.5rem;
+    background-color: chartreuse;
+    margin-bottom: 2%;
+    margin-top:0.1cm
+}
+
+.bloco_info{
+    margin-top:0.1cm;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+
+
+}
